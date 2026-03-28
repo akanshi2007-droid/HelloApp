@@ -11,6 +11,8 @@ public class HelloAppUC6 {
             if (finalNames.length() > 0) {
                 finalNames = finalNames.substring(0, finalNames.length() - 2);
             }
+
+
             System.out.println("Hello, " + finalNames + "!");
         }
     }
